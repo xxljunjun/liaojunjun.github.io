@@ -210,6 +210,11 @@
     {#####################}
     {### END POST BODY ###}
     {#####################}
+     {% if not is_index and theme.passage_end_tag.enabled %}
+   <div>
+     {% include 'passage-end-tag.swig' %}
+   </div>
+ {% endif %}
 
     {%- if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
       {{ partial('_partials/post/post-related.swig') }}
