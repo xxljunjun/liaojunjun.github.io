@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 码苑   #标题
 subtitle: ''
-description: ''
+description: 你不解决问题，你就会成为问题  #简介或者格言
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: junjunL  #作者
+language: zh-CN    #主题语言
+timezone: Asia/Shanghai   #中国的时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next  #主题改为next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
