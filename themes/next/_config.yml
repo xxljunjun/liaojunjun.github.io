@@ -181,7 +181,11 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/xxljunjun || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  E-Mail: mailto:793117268@qq.com || fa fa-envelope
+  简书: https://www.jianshu.com/u/6f6bebac9c10 || fab fa-jianshu
+  个人网站: http://www.xxljunjun.com || fab fa-myWeb
+  仿小红书webapp: http://www.xxljunjun.com/redbook || fab fa-myWeb
+  后台管理系统: http://www.xxljunjun.com/vuestudy || fab fa-myWeb
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter

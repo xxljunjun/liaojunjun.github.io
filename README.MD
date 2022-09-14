@@ -9,6 +9,9 @@
 ### hexo g
 
 ### hexo s
+
+### 启动项目
++ npm run server
 ```
 http://localhost:4000/
 ```
@@ -42,4 +45,6 @@ http://xxljunjun.github.io
 
 ### 新写文章
 + hexo new "我的第一篇博客"
+
+
 
